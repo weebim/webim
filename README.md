@@ -1,6 +1,8 @@
 # webim
 Sharing the progress and feature list for the webim project.
 
+The public mirror for https://github.com/yanweizh/webim
+
 ## Features List
 
 - [ ] The overall Solution/Project architecture management implementation
